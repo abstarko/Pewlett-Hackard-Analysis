@@ -1,1 +1,1 @@
-# Pewlett-Hsckard-Analysis
+# Pewlett-Hackard-Analysis
